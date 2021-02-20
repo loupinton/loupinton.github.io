@@ -209,9 +209,6 @@ h6 {
   #header.header-top h1 {
     font-size: 26px;
   }
-  body::before {
-    background-position: -690px;
-  }
 }
 
 /*--------------------------------------------------------------
