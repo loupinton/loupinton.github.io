@@ -55,10 +55,10 @@ h6 {
   z-index: 997;
   overflow-y: auto;
 }
-#header mobile-nav-toggle {
+#header .mobile-nav-toggle {
   color: #0e2535;
 }
-#header.header-top mobile-nav-toggle {
+#header.header-top .mobile-nav-toggle {
   color: #fff;
 }
 
