@@ -1218,6 +1218,12 @@ section .container {
   }
 }
 
+@media (max-width: 375) {
+  body::before {
+    background-position: -690px;
+  }
+}
+
 .credits a {
   color: transparent;
   transition: 0.3s;
