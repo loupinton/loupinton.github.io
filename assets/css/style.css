@@ -1218,7 +1218,7 @@ section .container {
   }
 }
 
-@media (max-width: 375) {
+@media (max-width: 375px) {
   body::before {
     background-position: -690px;
   }
